@@ -12,7 +12,7 @@ It generates a valid key for the login given in parameter.
 
 ## Build/execution
 
-### C++
+### C++
 
 #### Build
 
